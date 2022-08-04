@@ -2,6 +2,7 @@
 			echo 'será solicitado a senha do root do sistema para fazer as instalações'
 			sudo apt update
  			sudo apt upgrade
+		#instalação do apache2	
 			sudo apt install apache2	
 			sudo apt install mariadb-server
 			sudo apt install php libapache2-mod-php php-mysql php-cli php-curl
